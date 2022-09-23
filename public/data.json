@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+         "itemname":"Item-1",
+         "price": 100,
+         "quantity":1,
+         "itemwishlist": false
+    },
+    {
+        "id":2,
+         "itemname":"Item-2",
+         "price": 200,
+         "quantity":1,
+         "itemwishlist": false
+
+    },
+    {
+        "id":3,
+         "itemname":"Item-3",
+         "price": 300,
+         "quantity":1,
+         "itemwishlist": false
+
+    },
+    {
+        "id":4,
+         "itemname":"Item-4",
+         "price": 400,
+         "quantity":1,
+         "itemwishlist": false
+
+    },
+    {
+        "id":5,
+         "itemname":"Item-5",
+         "price": 500,
+         "quantity":1,
+         "itemwishlist": false
+
+    },
+    {
+        "id":6,
+         "itemname":"Item-6",
+         "price": 600,
+         "quantity":1,
+         "itemwishlist": false
+
+         
+    },
+    {
+        "id":7,
+         "itemname":"Item-7",
+         "price": 700,
+         "quantity":1,
+         "itemwishlist": false
+
+    },
+    {
+        "id":8,
+         "itemname":"Item-8",
+         "price": 800,
+         "quantity":1,
+         "itemwishlist": false
+
+    },
+    {
+        "id":9,
+         "itemname":"Item-9",
+         "price": 900,
+         "quantity":1,
+         "itemwishlist": false
+
+    },
+    {
+        "id":10,
+         "itemname":"Item-10",
+         "price": 1000,
+         "quantity":1,
+         "itemwishlist": false
+
+    }
+]
